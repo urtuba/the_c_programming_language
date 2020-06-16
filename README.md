@@ -1,4 +1,6 @@
-# the_c_programming_language
+# The C Programming Languge Examples
+<i>book by Brian W. Kernighan and Dennis M. Ritchie</i>
+<hr>
 I am reading the legendary book The C Programming Language, which is referred as "C Bible". Book constists of examples. And I will be coding them while reading and sharing them here chapter by chapter. Codes can be different a little bit because of my visual preferences or sense of humor; but I will code examples 99% as they are.
 
 ## CHAPTER 1
