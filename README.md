@@ -19,3 +19,9 @@ Fahrenheit to celcius table, but it is done with for loop instead of while loop.
 
 ### 05. Copy The Text
 Simple program to practice <em>getchar()</em> and <em>putchar()</em> which are character input and output functions. It takes a string and prompts the same.
+
+### 06. Character Counter
+Counts number of characters in a given input text. Type your text and send EOF signal. (Control+D for Linux)
+
+### 07. Line Counter
+Counts numbers of tab characters, new lines and spaces in a given text.
