@@ -25,3 +25,6 @@ Counts number of characters in a given input text. Type your text and send EOF s
 
 ### 07. Line Counter
 Counts numbers of tab characters, new lines and spaces in a given text.
+
+### 08. Word Counter
+Simple word counter that terminates with EOF character. It uses <strong>if - else</strong> structure.
