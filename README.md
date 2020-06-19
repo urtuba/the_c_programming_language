@@ -28,3 +28,12 @@ Counts numbers of tab characters, new lines and spaces in a given text.
 
 ### 08. Word Counter
 Simple word counter that terminates with EOF character. It uses <strong>if - else</strong> structure.
+
+### 09. Digit Counter
+Uses array to hold the count of digits.
+
+### 10. Power Function
+Calculates powers of 2 using power function defined in it.
+
+### 11. Longest Line
+Holds longest inserted line and prints it out. Void function and arrays are used.
