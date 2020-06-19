@@ -37,3 +37,6 @@ Calculates powers of 2 using power function defined in it.
 
 ### 11. Longest Line
 Holds longest inserted line and prints it out. Void function and arrays are used.
+
+### 12. Reverser
+It reverses each line input.
