@@ -40,3 +40,6 @@ Holds longest inserted line and prints it out. Void function and arrays are used
 
 ### 12. Reverser
 It reverses each line input.
+
+### 13. Line Folder
+It folds entered lines into 2. Lines above 100 characters are folded into parts with 50 fold-size.
